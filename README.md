@@ -6,6 +6,7 @@ AJD Scavenge is a battle-tested collection framework built for modern FiveM econ
 
 > **TL;DR:** AJD Scavenge is the go-to FiveM scavenging script for servers that want cinematic routes, lore-aware loot, and rock-solid server performance.
 
+![Visitors](https://komarev.com/ghpvc/?username=AlexJamesDean&repo=ajd-scavenge&color=blue)
 ---
 
 ## Why Server Owners Love It
