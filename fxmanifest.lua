@@ -6,6 +6,7 @@ description 'Promotional repository for AJD Scavenge. Purchase the full script o
 version '1.0.0'
 
 -- No client or server scripts are shipped here.
--- Grab the complete resource with all source files from https://ajd.tebex.io/.
+-- Grab the complete resource with all source files from https://alexjamesdean.tebex.io/.
+
 
 
